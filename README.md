@@ -14,6 +14,6 @@ A medicine reminder app built with Java &amp; XML
 <img width="200" height="1204" alt="image" src="https://github.com/user-attachments/assets/0035235d-4cb3-487d-a064-f857f5435ccf" />
 <img width="200" height="1204" alt="image" src="https://github.com/user-attachments/assets/ec9a7fa7-4a96-4438-abd9-a7315a6f9b19" />
 <img width="200" height="1204" alt="image" src="https://github.com/user-attachments/assets/46eae565-7862-4b10-aab3-e46f16b4f59f" />
-<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/586f38a4-b49f-4fa0-8deb-324aa9ccf725" />
+<img width="200" height="1204" alt="image" src="https://github.com/user-attachments/assets/586f38a4-b49f-4fa0-8deb-324aa9ccf725" />
 
 </p>
